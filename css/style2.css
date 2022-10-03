@@ -1,0 +1,102 @@
+html,
+body {
+    
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    min-height: 95%;
+    height: 100%;
+}
+.container {
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.sub-text {
+    font-size: larger;
+}
+#main{
+    position: relative;
+    gap: 60px;
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.main2 {
+        position: relative;
+        gap: 60px;
+        flex-wrap: wrap;
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 200px;
+        padding-bottom: 40px;
+        padding-top: 40px;
+        padding-left: 50px;
+        padding-right: 50px;
+        align-items: baseline;
+        
+}
+.main-text {
+    font-size:70px;
+    margin-bottom: 0;
+}
+.sub-text {
+    font-size: x-large;
+    margin-top: 0;
+}
+input[type=button] {
+    background-color: #5fc400;
+    color: white;
+    border-radius: 5px;
+    border-color: transparent;
+    width: 200px;
+    height: 60px;
+    font-size: 25PX;
+    align-items: baseline;
+    cursor: pointer;
+
+}
+
+.sub-text2 {
+    font: weight 34px;
+    font-size: xx-large;
+    margin-top: 0;
+
+}
+
+.main-text2 {
+    font: weight 17.6px; 
+}
+
+.container2 {
+    width: 40%;
+    margin-left: 65px;
+}
+
+.container7 {
+    display:flex;
+    gap:190px;
+    zoom: 1.2;
+}
+
+.title2 {
+    color: #57b1c5;
+    font-family: 1.;
+    
+}
+
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 90%;
+    gap: 25px;
+}
+
